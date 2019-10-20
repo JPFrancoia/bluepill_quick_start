@@ -1,6 +1,6 @@
 # Setup
 
-I used this [readme](http://example.com "readme") to help me start.
+I used this [readme](https://github.com/TeXitoi/blue-pill-quickstart "readme") to help me start.
 I bought my blue pills [here](https://www.amazon.fr/gp/product/B07B2D4QKY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 This is the wiring I use for my ST-link V2:
